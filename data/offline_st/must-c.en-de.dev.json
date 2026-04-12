@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ted_767_0",
+    "audio": "/path/to/must_c/en-de/data/dev/wav/ted_767.wav:204000:56159",
+    "n_frames": 56159,
+    "src_text": "I'm going to talk today about energy and climate.",
+    "src_lang": "English",
+    "tgt_text": "Heute spreche ich zu Ihnen über Energie und Klima.",
+    "tgt_lang": "German",
+    "speaker": "spk.767"
+  },
+  {
+    "id": "ted_767_1",
+    "audio": "/path/to/must_c/en-de/data/dev/wav/ted_767.wav:272479:226080",
+    "n_frames": 226080,
+    "src_text": "And that might seem a bit surprising, because my full-time work at the foundation is mostly about vaccines and seeds, about the things that we need to invent and deliver to help the poorest two billion live better lives.",
+    "src_lang": "English",
+    "tgt_text": "Und das überrascht vielleicht etwas, weil sich meine Vollzeitbeschäftigung bei der Stiftung hauptsächlich um Impfstoffe und Saatgut dreht, um die Dinge, die wir erfinden und liefern müssen um den ärmsten 2 Milliarden ein besseres Leben zu ermöglichen.",
+    "tgt_lang": "German",
+    "speaker": "spk.767"
+  },
+  {
+    "id": "ted_767_2",
+    "audio": "/path/to/must_c/en-de/data/dev/wav/ted_767.wav:518400:141920",
+    "n_frames": 141920,
+    "src_text": "But energy and climate are extremely important to these people; in fact, more important than to anyone else on the planet.",
+    "src_lang": "English",
+    "tgt_text": "Aber Energie und Klima sind extrem wichtig für diese Menschen, Genau genommen sogar wichtiger als für jeden anderen auf dem Planeten.",
+    "tgt_lang": "German",
+    "speaker": "spk.767"
+  },
+  {
+    "id": "ted_767_3",
+    "audio": "/path/to/must_c/en-de/data/dev/wav/ted_767.wav:667680:227840",
+    "n_frames": 227840,
+    "src_text": "The climate getting worse means that many years, their crops won't grow: there will be too much rain, not enough rain; things will change in ways their fragile environment simply can't support.",
+    "src_lang": "English",
+    "tgt_text": "Klimaverschlechterung bedeutet, dass deren Saaten über viele Jahre nicht wachsen werden. Es wir zu viel oder zu wenig regnen.",
+    "tgt_lang": "German",
+    "speaker": "spk.767"
+  },
+  {
+    "id": "ted_767_4",
+    "audio": "/path/to/must_c/en-de/data/dev/wav/ted_767.wav:903360:59200",
+    "n_frames": 59200,
+    "src_text": "And that leads to starvation, it leads to uncertainty, it leads to unrest.",
+    "src_lang": "English",
+    "tgt_text": "Die Dinge werden sich so ändern, wie es ihre fragile Umwelt nicht aushalten kann. Das führt zu Hungersterben. Es führt zu Unsicherheit. Es führt zu Unruhen.",
+    "tgt_lang": "German",
+    "speaker": "spk.767"
+  }
+]

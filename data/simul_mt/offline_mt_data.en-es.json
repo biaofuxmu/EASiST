@@ -1,0 +1,37 @@
+[
+  {
+    "instruction": "You are a professional translator, your task is to translate the given speech from English into Spanish.",
+    "input": "And it's truly a great honor to have the opportunity to come to this stage twice; I'm extremely grateful. I have been blown away by this conference, and I want to thank all of you for the many nice comments about what I had to say the other night.<|end-of-read|>",
+    "output": "Muchas gracias Chris. Y es en verdad un gran honor tener la oportunidad de venir a este escenario por segunda vez. Estoy extremadamente agradecido. He quedado conmovido por esta conferencia, y deseo agradecer a todos ustedes sus amables comentarios acerca de lo que tenía que decir la otra noche.<|end-of-write|>",
+    "src_lang": "English",
+    "tgt_lang": "Spanish"
+  },
+  {
+    "instruction": "You are a professional translator, your task is to translate the given speech from English into Spanish.",
+    "input": "And I say that sincerely, partly because (Mock sob) I need that. (Laughter)<|end-of-read|>",
+    "output": "Y digo eso sinceramente, en parte porque — (Sollozos fingidos) — ¡lo necesito! (Risas) ¡Pónganse en mi posición!<|end-of-write|>",
+    "src_lang": "English",
+    "tgt_lang": "Spanish"
+  },
+  {
+    "instruction": "You are a professional translator, your task is to translate the given speech from English into Spanish.",
+    "input": "(Laughter) Now I have to take off my shoes or boots to get on an airplane! (Laughter) (Applause)<|end-of-read|>",
+    "output": "Volé en el avión vicepresidencial por ocho años. ¡Ahora tengo que quitarme mis zapatos o botas para subirme a un avión! (Risas) (Aplausos)<|end-of-write|>",
+    "src_lang": "English",
+    "tgt_lang": "Spanish"
+  },
+  {
+    "instruction": "You are a professional translator, your task is to translate the given speech from English into Spanish.",
+    "input": "I'll tell you one quick story to illustrate what that's been like for me.<|end-of-read|>",
+    "output": "Les diré una rápida historia para ilustrar lo que ha sido para mí.<|end-of-write|>",
+    "src_lang": "English",
+    "tgt_lang": "Spanish"
+  },
+  {
+    "instruction": "You are a professional translator, your task is to translate the given speech from English into Spanish.",
+    "input": "(Laughter) It's a true story — every bit of this is true.<|end-of-read|>",
+    "output": "Es una historia verdadera — cada parte de esto es verdad.<|end-of-write|>",
+    "src_lang": "English",
+    "tgt_lang": "Spanish"
+  }
+]

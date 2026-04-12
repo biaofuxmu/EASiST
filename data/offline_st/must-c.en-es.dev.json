@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ted_767_0",
+    "audio": "/path/to/must_c/en-es/data/dev/wav/ted_767.wav:204000:294560",
+    "n_frames": 294560,
+    "src_text": "I'm going to talk today about energy and climate. And that might seem a bit surprising, because my full-time work at the foundation is mostly about vaccines and seeds, about the things that we need to invent and deliver to help the poorest two billion live better lives.",
+    "src_lang": "English",
+    "tgt_text": "Voy a hablar hoy sobre la energía y el clima Y eso podría parecer un poco sorprendente porque mi trabajo a tiempo completo en la fundación es principalmente sobre vacunas y semillas, sobre las cosas que necesitamos inventar y cumplir para mejorar la vida de los 2000 millones más pobres.",
+    "tgt_lang": "Spanish",
+    "speaker": "spk.767"
+  },
+  {
+    "id": "ted_767_1",
+    "audio": "/path/to/must_c/en-es/data/dev/wav/ted_767.wav:518400:141920",
+    "n_frames": 141920,
+    "src_text": "But energy and climate are extremely important to these people; in fact, more important than to anyone else on the planet.",
+    "src_lang": "English",
+    "tgt_text": "Pero, la energía y el clima son extremadamente importantes para estas personas, de hecho, más importante que para cualquier otro en el planeta.",
+    "tgt_lang": "Spanish",
+    "speaker": "spk.767"
+  },
+  {
+    "id": "ted_767_2",
+    "audio": "/path/to/must_c/en-es/data/dev/wav/ted_767.wav:667680:227840",
+    "n_frames": 227840,
+    "src_text": "The climate getting worse means that many years, their crops won't grow: there will be too much rain, not enough rain; things will change in ways their fragile environment simply can't support.",
+    "src_lang": "English",
+    "tgt_text": "El cambio climático significa que por muchos años sus cultivos no crecerán. Habrá demasiada lluvia, o lluvia insuficiente. Las cosas cambiarán de manera que su frágil entorno simplemente no puede mantener.",
+    "tgt_lang": "Spanish",
+    "speaker": "spk.767"
+  },
+  {
+    "id": "ted_767_3",
+    "audio": "/path/to/must_c/en-es/data/dev/wav/ted_767.wav:903360:59200",
+    "n_frames": 59200,
+    "src_text": "And that leads to starvation, it leads to uncertainty, it leads to unrest.",
+    "src_lang": "English",
+    "tgt_text": "Y eso conduce al hambre.",
+    "tgt_lang": "Spanish",
+    "speaker": "spk.767"
+  },
+  {
+    "id": "ted_767_4",
+    "audio": "/path/to/must_c/en-es/data/dev/wav/ted_767.wav:973280:47840",
+    "n_frames": 47840,
+    "src_text": "So, the climate changes will be terrible for them.",
+    "src_lang": "English",
+    "tgt_text": "Conduce a la incertidumbre. conduce a los disturbios Los cambios climáticos serán terribles para ellos.",
+    "tgt_lang": "Spanish",
+    "speaker": "spk.767"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ted_1096_0",
+    "audio": "/path/to/must_c/en-es/data/tst-COMMON/wav/ted_1096.wav:201760:65119",
+    "n_frames": 65119,
+    "src_text": "Back in New York, I am the head of development for a non-profit called Robin Hood.",
+    "src_lang": "English",
+    "tgt_text": "En Nueva York soy responsable de desarrollo de una organización sin fines de lucro llamada Robin Hood.",
+    "tgt_lang": "Spanish",
+    "speaker": "spk.1096"
+  },
+  {
+    "id": "ted_1096_1",
+    "audio": "/path/to/must_c/en-es/data/tst-COMMON/wav/ted_1096.wav:270400:82240",
+    "n_frames": 82240,
+    "src_text": "When I'm not fighting poverty, I'm fighting fires as the assistant captain of a volunteer fire company.",
+    "src_lang": "English",
+    "tgt_text": "Cuando no estoy combatiendo la pobreza, combato incendios como asistente de capitán en un cuerpo de bomberos voluntarios.",
+    "tgt_lang": "Spanish",
+    "speaker": "spk.1096"
+  },
+  {
+    "id": "ted_1096_2",
+    "audio": "/path/to/must_c/en-es/data/tst-COMMON/wav/ted_1096.wav:360480:129600",
+    "n_frames": 129600,
+    "src_text": "Now in our town, where the volunteers supplement a highly skilled career staff, you have to get to the fire scene pretty early to get in on any action.",
+    "src_lang": "English",
+    "tgt_text": "Y, en nuestra ciudad, donde los voluntarios complementan a un personal altamente calificado uno tiene que llegar al sitio del incendio muy pronto para entrar en acción.",
+    "tgt_lang": "Spanish",
+    "speaker": "spk.1096"
+  },
+  {
+    "id": "ted_1096_3",
+    "audio": "/path/to/must_c/en-es/data/tst-COMMON/wav/ted_1096.wav:504320:95520",
+    "n_frames": 95520,
+    "src_text": "I remember my first fire. I was the second volunteer on the scene, so there was a pretty good chance I was going to get in.",
+    "src_lang": "English",
+    "tgt_text": "Recuerdo mi primer incendio. Yo era el segundo voluntario en el sitio, así que tenía una probabilidad bastante alta de ir.",
+    "tgt_lang": "Spanish",
+    "speaker": "spk.1096"
+  },
+  {
+    "id": "ted_1096_4",
+    "audio": "/path/to/must_c/en-es/data/tst-COMMON/wav/ted_1096.wav:615680:89120",
+    "n_frames": 89120,
+    "src_text": "But still it was a real footrace against the other volunteers to get to the captain in charge to find out what our assignments would be.",
+    "src_lang": "English",
+    "tgt_text": "Pero aún así hubo una carrera a pie contra los otros voluntarios para llegar al capitán a cargo y averiguar cuál era nuestra tarea.",
+    "tgt_lang": "Spanish",
+    "speaker": "spk.1096"
+  }
+]

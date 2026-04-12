@@ -1,0 +1,27 @@
+[
+  {
+    "instruction": "You are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into Spanish.",
+    "input": "",
+    "output": "Which means that all the devices that you've seen before<|end-of-read|>Lo que significa que todos los dispositivos que has visto antes<|end-of-write|> and all the formats, in principle, can be implanted and disappear.<|end-of-read|> y todos los formatos, en principio, pueden ser implantados y desaparecer.<|end-of-write|>"
+  },
+  {
+    "instruction": "You are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into Spanish.",
+    "input": "",
+    "output": "The company told her<|end-of-read|>La empresa le dijo<|end-of-write|> there was a possibility<|end-of-read|> que había una posibilidad<|end-of-write|> it could turn into something more,<|end-of-read|> de que pudiera convertirse en algo más,<|end-of-write|> but no guarantees.<|end-of-read|> pero no hay garantías.<|end-of-write|>"
+  },
+  {
+    "instruction": "You are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into Spanish.",
+    "input": "",
+    "output": "The salmon on top is a genetically engineered Chinook salmon,<|end-of-read|>El salmón en la parte superior es un salmón Chinook genéticamente modificado,<|end-of-write|> using a gene from these salmon<|end-of-read|> usando un gen de estos salmones<|end-of-write|> and from one other fish that we eat,<|end-of-read|> y de otro pez que comemos,<|end-of-write|> to make it grow much faster<|end-of-read|> para hacerlo crecer mucho más rápido<|end-of-write|> using a lot less feed.<|end-of-read|> usando mucha menos comida.<|end-of-write|>"
+  },
+  {
+    "instruction": "You are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into Spanish.",
+    "input": "",
+    "output": "In fact, now when you survey very, very poor communities,<|end-of-read|>De hecho, ahora, cuando encuestas comunidades muy, muy pobres,<|end-of-write|> residents will tell you<|end-of-read|> los residentes te dirán<|end-of-write|> that their greatest fear is violence.<|end-of-read|> que su mayor miedo es la violencia.<|end-of-write|>"
+  },
+  {
+    "instruction": "You are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into Spanish.",
+    "input": "",
+    "output": "If I turn it off,<|end-of-read|>Si lo apago,<|end-of-write|> we see that it drops.<|end-of-read|> vemos que baja.<|end-of-write|>"
+  }
+]

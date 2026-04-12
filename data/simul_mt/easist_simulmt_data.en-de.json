@@ -1,0 +1,27 @@
+[
+  {
+    "instruction": "You are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into German.",
+    "input": "",
+    "output": "That compassion is actually<|end-of-read|>Dieses Mitgefühl ist tatsächlich<|end-of-write|> an inherent human quality.<|end-of-read|> eine angeborene menschliche Eigenschaft.<|end-of-write|>"
+  },
+  {
+    "instruction": "You are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into German.",
+    "input": "",
+    "output": "Let them do it.<|end-of-read|>Lass sie es tun.<|end-of-write|>"
+  },
+  {
+    "instruction": "You are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into German.",
+    "input": "",
+    "output": "And one thing which I found<|end-of-read|>Und eine Sache, die ich gefunden habe,<|end-of-write|> was this black rubber.<|end-of-read|> war dieser schwarze Gummi.<|end-of-write|>"
+  },
+  {
+    "instruction": "You are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into German.",
+    "input": "",
+    "output": "Of course this is Utopia,<|end-of-read|>Natürlich ist das Utopia,<|end-of-write|> it's a formula for paralysis, not freedom.<|end-of-read|> es ist eine Formel für Lähmung, nicht Freiheit.<|end-of-write|>"
+  },
+  {
+    "instruction": "You are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into German.",
+    "input": "",
+    "output": "The school of architecture<|end-of-read|>Die Architekturschule<|end-of-write|> that I studied at<|end-of-read|> an der ich studiert habe<|end-of-write|> some thirty years ago<|end-of-read|> vor etwa dreißig Jahren<|end-of-write|> happened to be<|end-of-read|> befand sich<|end-of-write|> across the street<|end-of-read|> gegenüber<|end-of-write|> from the wonderful art gallery<|end-of-read|> der wunderbaren Kunstgalerie<|end-of-write|> designed by the great architect Louis Kahn.<|end-of-read|> die von dem großen Architekten Louis Kahn entworfen wurde.<|end-of-write|>"
+  }
+]

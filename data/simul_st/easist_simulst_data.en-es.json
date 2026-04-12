@@ -1,0 +1,187 @@
+[
+  {
+    "id": "ted_1_8",
+    "audio": "/path/to/must_c/en-es/data/train/wav/ted_1.wav:2163679:74880",
+    "n_frames": 74880,
+    "src_text": "(Laughter) It was dinnertime, and we started looking for a place to eat.",
+    "tgt_text": "(Risas) Era la hora de la cena, y empezamos a buscar un lugar para comer.",
+    "speaker": "spk.1",
+    "chunk_src": [
+      "(Laughter) It was dinnertime,",
+      "and we started",
+      "looking for a place to eat."
+    ],
+    "chunk_tgt": [
+      "(Risas) Era la hora de la cena,",
+      "y empezamos",
+      "a buscar un lugar para comer."
+    ],
+    "src_lang": "English",
+    "tgt_lang": "Spanish",
+    "chunk_hypo": [
+      "(Risas) Era la hora de la cena,",
+      "y empezamos",
+      "a buscar un lugar para comer."
+    ],
+    "latency-level": "low",
+    "chunk_seg_time": [
+      "1.42",
+      "3.61",
+      "4.68"
+    ],
+    "speech_seg_size": [
+      30800,
+      61600,
+      74880
+    ],
+    "data_type": "streaming",
+    "instruction_prefix": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYou are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into Spanish.",
+    "instruction_suffix": "<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+  },
+  {
+    "id": "ted_1_9",
+    "audio": "/path/to/must_c/en-es/data/train/wav/ted_1.wav:2254400:8800",
+    "n_frames": 8800,
+    "src_text": "We were on I-40.",
+    "tgt_text": "Nosotros estábamos en I-40.",
+    "speaker": "spk.1",
+    "chunk_src": [
+      "We were",
+      "on I-40."
+    ],
+    "chunk_tgt": [
+      "Nosotros estábamos",
+      "en I-40."
+    ],
+    "src_lang": "English",
+    "tgt_lang": "Spanish",
+    "chunk_hypo": [
+      "Nosotros estábamos",
+      "en I-40."
+    ],
+    "latency-level": "low",
+    "chunk_seg_time": [
+      "0.23",
+      "0.44"
+    ],
+    "speech_seg_size": [
+      8800,
+      8800
+    ],
+    "data_type": "streaming",
+    "instruction_prefix": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYou are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into Spanish.",
+    "instruction_suffix": "<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+  },
+  {
+    "id": "ted_1_10",
+    "audio": "/path/to/must_c/en-es/data/train/wav/ted_1.wav:2271040:51840",
+    "n_frames": 51840,
+    "src_text": "We got to Exit 238, Lebanon, Tennessee.",
+    "tgt_text": "Llegamos a la salida 238, Líbano, Tennessee.",
+    "speaker": "spk.1",
+    "chunk_src": [
+      "We got to Exit 238,",
+      "Lebanon, Tennessee."
+    ],
+    "chunk_tgt": [
+      "Llegamos a la salida 238,",
+      "Líbano, Tennessee."
+    ],
+    "src_lang": "English",
+    "tgt_lang": "Spanish",
+    "chunk_hypo": [
+      "Llegamos a la salida 238,",
+      "Líbano, Tennessee."
+    ],
+    "latency-level": "low",
+    "chunk_seg_time": [
+      "1.59",
+      "1.84"
+    ],
+    "speech_seg_size": [
+      30800,
+      30800
+    ],
+    "data_type": "streaming",
+    "instruction_prefix": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYou are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into Spanish.",
+    "instruction_suffix": "<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+  },
+  {
+    "id": "ted_1_11",
+    "audio": "/path/to/must_c/en-es/data/train/wav/ted_1.wav:2322880:121120",
+    "n_frames": 121120,
+    "src_text": "We got off the exit, we found a Shoney's restaurant. Low-cost family restaurant chain, for those of you who don't know it.",
+    "tgt_text": "Salimos de la salida, encontramos un restaurante Shoney's. Cadena de restaurantes familiares de bajo costo, para aquellos de ustedes que no lo conocen.",
+    "speaker": "spk.1",
+    "chunk_src": [
+      "We got off the exit, we found",
+      "a Shoney's restaurant.",
+      "Low-cost family restaurant chain,",
+      "for those of you who don't know it."
+    ],
+    "chunk_tgt": [
+      "Salimos de la salida, encontramos",
+      "un restaurante Shoney's.",
+      "Cadena de restaurantes familiares de bajo costo,",
+      "para aquellos de ustedes que no lo conocen."
+    ],
+    "src_lang": "English",
+    "tgt_lang": "Spanish",
+    "chunk_hypo": [
+      "Salimos de la salida, encontramos",
+      "un restaurante Shoney's.",
+      "Cadena de restaurantes familiares de bajo costo,",
+      "para aquellos de ustedes que no lo conocen."
+    ],
+    "latency-level": "low",
+    "chunk_seg_time": [
+      "1.49",
+      "2.71",
+      "5.81",
+      "7.42"
+    ],
+    "speech_seg_size": [
+      30800,
+      51600,
+      102800,
+      121120
+    ],
+    "data_type": "streaming",
+    "instruction_prefix": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYou are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into Spanish.",
+    "instruction_suffix": "<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+  },
+  {
+    "id": "ted_1_14",
+    "audio": "/path/to/must_c/en-es/data/train/wav/ted_1.wav:2991360:63679",
+    "n_frames": 63679,
+    "src_text": "There's been kind of a series of epiphanies.",
+    "tgt_text": "Ha habido algo así como una serie de epifanías.",
+    "speaker": "spk.1",
+    "chunk_src": [
+      "There's been kind of a series",
+      "of epiphanies."
+    ],
+    "chunk_tgt": [
+      "Ha habido algo así como una serie",
+      "de epifanías."
+    ],
+    "src_lang": "English",
+    "tgt_lang": "Spanish",
+    "chunk_hypo": [
+      "Ha habido algo así como una serie",
+      "de epifanías."
+    ],
+    "latency-level": "low",
+    "chunk_seg_time": [
+      "3.71",
+      "3.97994"
+    ],
+    "speech_seg_size": [
+      61600,
+      63679
+    ],
+    "data_type": "streaming",
+    "instruction_prefix": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYou are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into Spanish.",
+    "instruction_suffix": "<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+  }
+]

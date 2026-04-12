@@ -1,0 +1,37 @@
+[
+  {
+    "instruction": "You are a professional translator, your task is to translate the given speech from English into German.",
+    "input": "And it's truly a great honor to have the opportunity to come to this stage twice; I'm extremely grateful. I have been blown away by this conference, and I want to thank all of you for the many nice comments about what I had to say the other night.<|end-of-read|>",
+    "output": "Vielen Dank, Chris. Es ist mir wirklich eine Ehre, zweimal auf dieser Bühne stehen zu dürfen. Tausend Dank dafür. Ich bin wirklich begeistert von dieser Konferenz, und ich danke Ihnen allen für die vielen netten Kommentare zu meiner Rede vorgestern Abend.<|end-of-write|>",
+    "src_lang": "English",
+    "tgt_lang": "German"
+  },
+  {
+    "instruction": "You are a professional translator, your task is to translate the given speech from English into German.",
+    "input": "And I say that sincerely, partly because (Mock sob) I need that. (Laughter)<|end-of-read|>",
+    "output": "Das meine ich ernst, teilweise deshalb — weil ich es wirklich brauchen kann! (Lachen) Versetzen Sie sich mal in meine Lage! (Lachen) (Applaus) Ich bin bin acht Jahre lang mit der Air Force Two geflogen.<|end-of-write|>",
+    "src_lang": "English",
+    "tgt_lang": "German"
+  },
+  {
+    "instruction": "You are a professional translator, your task is to translate the given speech from English into German.",
+    "input": "Now I have to take off my shoes or boots to get on an airplane! (Laughter) (Applause)<|end-of-read|>",
+    "output": "Jetzt muss ich meine Schuhe ausziehen, um überhaupt an Bord zu kommen! (Applaus)<|end-of-write|>",
+    "src_lang": "English",
+    "tgt_lang": "German"
+  },
+  {
+    "instruction": "You are a professional translator, your task is to translate the given speech from English into German.",
+    "input": "I'll tell you one quick story to illustrate what that's been like for me.<|end-of-read|>",
+    "output": "Ich erzähle Ihnen mal eine Geschichte, dann verstehen Sie mich vielleicht besser.<|end-of-write|>",
+    "src_lang": "English",
+    "tgt_lang": "German"
+  },
+  {
+    "instruction": "You are a professional translator, your task is to translate the given speech from English into German.",
+    "input": "It's a true story — every bit of this is true. Soon after Tipper and I left the — (Mock sob) White House —<|end-of-read|>",
+    "output": "Eine wahre Geschichte — kein Wort daran ist erfunden.<|end-of-write|>",
+    "src_lang": "English",
+    "tgt_lang": "German"
+  }
+]

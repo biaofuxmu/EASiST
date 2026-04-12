@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ted_1096_0",
+    "audio": "/path/to/must_c/en-de/data/tst-COMMON/wav/ted_1096.wav:201760:65119",
+    "n_frames": 65119,
+    "src_text": "Back in New York, I am the head of development for a non-profit called Robin Hood.",
+    "src_lang": "English",
+    "tgt_text": "Zu Hause in New York, bin ich Chef der Entwicklungsabteilung einer gemeinnützigen Organisation namens Robin Hood.",
+    "tgt_lang": "German",
+    "speaker": "spk.1096"
+  },
+  {
+    "id": "ted_1096_1",
+    "audio": "/path/to/must_c/en-de/data/tst-COMMON/wav/ted_1096.wav:270400:82240",
+    "n_frames": 82240,
+    "src_text": "When I'm not fighting poverty, I'm fighting fires as the assistant captain of a volunteer fire company.",
+    "src_lang": "English",
+    "tgt_text": "Wenn ich nicht die Armut bekämpfe, bekämpfe ich als Gehilfe eines Feuerwehr-Hauptmanns bei einem freiwilligen Löschzug das Feuer.",
+    "tgt_lang": "German",
+    "speaker": "spk.1096"
+  },
+  {
+    "id": "ted_1096_2",
+    "audio": "/path/to/must_c/en-de/data/tst-COMMON/wav/ted_1096.wav:360480:129600",
+    "n_frames": 129600,
+    "src_text": "Now in our town, where the volunteers supplement a highly skilled career staff, you have to get to the fire scene pretty early to get in on any action.",
+    "src_lang": "English",
+    "tgt_text": "Nun, in unserer Stadt, in der Freiwillige eine hochqualifizierte Berufsfeuerwehr unterstützten, muss man ziemlich früh an der Brandstelle sein, um mitmischen zu können.",
+    "tgt_lang": "German",
+    "speaker": "spk.1096"
+  },
+  {
+    "id": "ted_1096_3",
+    "audio": "/path/to/must_c/en-de/data/tst-COMMON/wav/ted_1096.wav:504320:24800",
+    "n_frames": 24800,
+    "src_text": "I remember my first fire.",
+    "src_lang": "English",
+    "tgt_text": "Ich erinnere mich an mein erstes Feuer.",
+    "tgt_lang": "German",
+    "speaker": "spk.1096"
+  },
+  {
+    "id": "ted_1096_4",
+    "audio": "/path/to/must_c/en-de/data/tst-COMMON/wav/ted_1096.wav:533439:66400",
+    "n_frames": 66400,
+    "src_text": "I was the second volunteer on the scene, so there was a pretty good chance I was going to get in.",
+    "src_lang": "English",
+    "tgt_text": "Ich war der zweite Freiwillige an der Brandstelle, ich hatte also recht gute Chancen hinein zu können.",
+    "tgt_lang": "German",
+    "speaker": "spk.1096"
+  }
+]

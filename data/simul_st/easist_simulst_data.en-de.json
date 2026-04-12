@@ -1,0 +1,192 @@
+[
+  {
+    "id": "ted_1_8",
+    "audio": "/path/to/must_c/en-de/data/train/wav/ted_1.wav:2167200:71360",
+    "n_frames": 71360,
+    "src_text": "It was dinnertime and we started looking for a place to eat.",
+    "tgt_text": "Es war Abendessenzeit und wir begannen nach einem Platz zu suchen.",
+    "speaker": "spk.1",
+    "chunk_src": [
+      "It was dinnertime and",
+      "we started looking for",
+      "a place to eat."
+    ],
+    "chunk_tgt": [
+      "Es war Abendessenzeit und",
+      "wir begannen nach",
+      "einem Platz zu suchen."
+    ],
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "chunk_hypo": [
+      "Es war Abendessenzeit und",
+      "wir begannen nach",
+      "einem Platz zu suchen."
+    ],
+    "latency-level": "low",
+    "chunk_seg_time": [
+      "2.29",
+      "3.72",
+      "4.46"
+    ],
+    "speech_seg_size": [
+      41200,
+      61600,
+      71360
+    ],
+    "data_type": "streaming",
+    "instruction_prefix": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYou are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into German.",
+    "instruction_suffix": "<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+  },
+  {
+    "id": "ted_1_19",
+    "audio": "/path/to/must_c/en-de/data/train/wav/ted_1.wav:3562240:55839",
+    "n_frames": 55839,
+    "src_text": "I gave my speech then went back out to the airport to fly back home.",
+    "tgt_text": "Ich hielt meine Rede dann ging ich wieder hinaus zum Flughafen um nach Hause zu fliegen.",
+    "speaker": "spk.1",
+    "chunk_src": [
+      "I gave my speech then",
+      "went back out",
+      "to the airport",
+      "to fly back home."
+    ],
+    "chunk_tgt": [
+      "Ich hielt meine Rede dann",
+      "ging ich wieder hinaus",
+      "zum Flughafen",
+      "um nach Hause zu fliegen."
+    ],
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "chunk_hypo": [
+      "Ich hielt meine Rede dann",
+      "ging ich wieder hinaus",
+      "zum Flughafen",
+      "um nach Hause zu fliegen."
+    ],
+    "latency-level": "low",
+    "chunk_seg_time": [
+      "1.46",
+      "2.02",
+      "2.65",
+      "3.45"
+    ],
+    "speech_seg_size": [
+      30800,
+      41200,
+      51600,
+      55839
+    ],
+    "data_type": "streaming",
+    "instruction_prefix": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYou are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into German.",
+    "instruction_suffix": "<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+  },
+  {
+    "id": "ted_1_28",
+    "audio": "/path/to/must_c/en-de/data/train/wav/ted_1.wav:5423840:55679",
+    "n_frames": 55679,
+    "src_text": "I was going to talk about information ecology",
+    "tgt_text": "Ich wollte über Informationsökologie sprechen.",
+    "speaker": "spk.1",
+    "chunk_src": [
+      "I was going to talk about",
+      "information ecology"
+    ],
+    "chunk_tgt": [
+      "Ich wollte über",
+      "Informationsökologie sprechen."
+    ],
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "chunk_hypo": [
+      "Ich wollte über",
+      "Informationsökologie sprechen."
+    ],
+    "latency-level": "low",
+    "chunk_seg_time": [
+      "2.24",
+      "3.38"
+    ],
+    "speech_seg_size": [
+      41200,
+      55679
+    ],
+    "data_type": "streaming",
+    "instruction_prefix": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYou are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into German.",
+    "instruction_suffix": "<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+  },
+  {
+    "id": "ted_1_37",
+    "audio": "/path/to/must_c/en-de/data/train/wav/ted_1.wav:6326560:86560",
+    "n_frames": 86560,
+    "src_text": "Just in the last two days we got the new temperature records in January.",
+    "tgt_text": "Gerade in den letzten zwei Tagen haben wir die neuen Temperaturrekorde im Januar erhalten.",
+    "speaker": "spk.1",
+    "chunk_src": [
+      "Just in the last two days",
+      "we got the new temperature records",
+      "in January."
+    ],
+    "chunk_tgt": [
+      "Gerade in den letzten zwei Tagen",
+      "haben wir die neuen Temperaturrekorde",
+      "im Januar erhalten."
+    ],
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "chunk_hypo": [
+      "Gerade in den letzten zwei Tagen",
+      "haben wir die neuen Temperaturrekorde",
+      "im Januar erhalten."
+    ],
+    "latency-level": "low",
+    "chunk_seg_time": [
+      "1.98",
+      "4.21",
+      "5.41"
+    ],
+    "speech_seg_size": [
+      41200,
+      72000,
+      86560
+    ],
+    "data_type": "streaming",
+    "instruction_prefix": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYou are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into German.",
+    "instruction_suffix": "<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+  },
+  {
+    "id": "ted_1_46",
+    "audio": "/path/to/must_c/en-de/data/train/wav/ted_1.wav:7165439:32160",
+    "n_frames": 32160,
+    "src_text": "It's not negative it's positive.",
+    "tgt_text": "Es ist nicht negativ, es ist positiv.",
+    "speaker": "spk.1",
+    "chunk_src": [
+      "It's not negative",
+      "it's positive."
+    ],
+    "chunk_tgt": [
+      "Es ist nicht negativ,",
+      "es ist positiv."
+    ],
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "chunk_hypo": [
+      "Es ist nicht negativ,",
+      "es ist positiv."
+    ],
+    "latency-level": "low",
+    "chunk_seg_time": [
+      "1.28",
+      "2.01"
+    ],
+    "speech_seg_size": [
+      20800,
+      32160
+    ],
+    "data_type": "streaming",
+    "instruction_prefix": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYou are a professional simultaneous interpreter, your task is to translate the following streaming speech from English into German.",
+    "instruction_suffix": "<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+  }
+]

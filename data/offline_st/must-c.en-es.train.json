@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ted_1_0",
+    "audio": "/path/to/must_c/en-es/data/train/wav/ted_1.wav:98720:460800",
+    "n_frames": 460800,
+    "src_text": "And it's truly a great honor to have the opportunity to come to this stage twice; I'm extremely grateful. I have been blown away by this conference, and I want to thank all of you for the many nice comments about what I had to say the other night.",
+    "src_lang": "English",
+    "tgt_text": "Muchas gracias Chris. Y es en verdad un gran honor tener la oportunidad de venir a este escenario por segunda vez. Estoy extremadamente agradecido. He quedado conmovido por esta conferencia, y deseo agradecer a todos ustedes sus amables comentarios acerca de lo que tenía que decir la otra noche.",
+    "tgt_lang": "Spanish",
+    "speaker": "spk.1"
+  },
+  {
+    "id": "ted_1_1",
+    "audio": "/path/to/must_c/en-es/data/train/wav/ted_1.wav:560160:357600",
+    "n_frames": 357600,
+    "src_text": "And I say that sincerely, partly because (Mock sob) I need that. (Laughter)",
+    "src_lang": "English",
+    "tgt_text": "Y digo eso sinceramente, en parte porque — (Sollozos fingidos) — ¡lo necesito! (Risas) ¡Pónganse en mi posición!",
+    "tgt_lang": "Spanish",
+    "speaker": "spk.1"
+  },
+  {
+    "id": "ted_1_2",
+    "audio": "/path/to/must_c/en-es/data/train/wav/ted_1.wav:920480:225920",
+    "n_frames": 225920,
+    "src_text": "(Laughter) Now I have to take off my shoes or boots to get on an airplane! (Laughter) (Applause)",
+    "src_lang": "English",
+    "tgt_text": "Volé en el avión vicepresidencial por ocho años. ¡Ahora tengo que quitarme mis zapatos o botas para subirme a un avión! (Risas) (Aplausos)",
+    "tgt_lang": "Spanish",
+    "speaker": "spk.1"
+  },
+  {
+    "id": "ted_1_3",
+    "audio": "/path/to/must_c/en-es/data/train/wav/ted_1.wav:1161600:65920",
+    "n_frames": 65920,
+    "src_text": "I'll tell you one quick story to illustrate what that's been like for me.",
+    "src_lang": "English",
+    "tgt_text": "Les diré una rápida historia para ilustrar lo que ha sido para mí.",
+    "tgt_lang": "Spanish",
+    "speaker": "spk.1"
+  },
+  {
+    "id": "ted_1_4",
+    "audio": "/path/to/must_c/en-es/data/train/wav/ted_1.wav:1234240:62720",
+    "n_frames": 62720,
+    "src_text": "(Laughter) It's a true story — every bit of this is true.",
+    "src_lang": "English",
+    "tgt_text": "Es una historia verdadera — cada parte de esto es verdad.",
+    "tgt_lang": "Spanish",
+    "speaker": "spk.1"
+  }
+]

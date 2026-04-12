@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ted_1_0",
+    "audio": "/path/to/must_c/en-de/data/train/wav/ted_1.wav:98720:460800",
+    "n_frames": 460800,
+    "src_text": "And it's truly a great honor to have the opportunity to come to this stage twice; I'm extremely grateful. I have been blown away by this conference, and I want to thank all of you for the many nice comments about what I had to say the other night.",
+    "src_lang": "English",
+    "tgt_text": "Vielen Dank, Chris. Es ist mir wirklich eine Ehre, zweimal auf dieser Bühne stehen zu dürfen. Tausend Dank dafür. Ich bin wirklich begeistert von dieser Konferenz, und ich danke Ihnen allen für die vielen netten Kommentare zu meiner Rede vorgestern Abend.",
+    "tgt_lang": "German",
+    "speaker": "spk.1"
+  },
+  {
+    "id": "ted_1_1",
+    "audio": "/path/to/must_c/en-de/data/train/wav/ted_1.wav:560160:219040",
+    "n_frames": 219040,
+    "src_text": "And I say that sincerely, partly because (Mock sob) I need that. (Laughter)",
+    "src_lang": "English",
+    "tgt_text": "Das meine ich ernst, teilweise deshalb — weil ich es wirklich brauchen kann! (Lachen) Versetzen Sie sich mal in meine Lage! (Lachen) (Applaus) Ich bin bin acht Jahre lang mit der Air Force Two geflogen.",
+    "tgt_lang": "German",
+    "speaker": "spk.1"
+  },
+  {
+    "id": "ted_1_2",
+    "audio": "/path/to/must_c/en-de/data/train/wav/ted_1.wav:779200:367200",
+    "n_frames": 367200,
+    "src_text": "Now I have to take off my shoes or boots to get on an airplane! (Laughter) (Applause)",
+    "src_lang": "English",
+    "tgt_text": "Jetzt muss ich meine Schuhe ausziehen, um überhaupt an Bord zu kommen! (Applaus)",
+    "tgt_lang": "German",
+    "speaker": "spk.1"
+  },
+  {
+    "id": "ted_1_3",
+    "audio": "/path/to/must_c/en-de/data/train/wav/ted_1.wav:1161600:65920",
+    "n_frames": 65920,
+    "src_text": "I'll tell you one quick story to illustrate what that's been like for me.",
+    "src_lang": "English",
+    "tgt_text": "Ich erzähle Ihnen mal eine Geschichte, dann verstehen Sie mich vielleicht besser.",
+    "tgt_lang": "German",
+    "speaker": "spk.1"
+  },
+  {
+    "id": "ted_1_4",
+    "audio": "/path/to/must_c/en-de/data/train/wav/ted_1.wav:1235520:128320",
+    "n_frames": 128320,
+    "src_text": "It's a true story — every bit of this is true. Soon after Tipper and I left the — (Mock sob) White House —",
+    "src_lang": "English",
+    "tgt_text": "Eine wahre Geschichte — kein Wort daran ist erfunden.",
+    "tgt_lang": "German",
+    "speaker": "spk.1"
+  }
+]
