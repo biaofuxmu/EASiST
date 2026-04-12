@@ -1,11 +1,11 @@
 # EASiST: Efficient and Adaptive Simultaneous Speech Translation
 
-[![Paper](https://img.shields.io/badge/Paper-AAAI%202026-blue)](./EASiST_AAAI26_Final.pdf)
 
 This repository contains the code implementation of the AAAI 2026 paper:  
 **Efficient and Adaptive Simultaneous Speech Translation with Fully Unidirectional Architecture**.
+Paper link: [AAAI Proceedings](https://ojs.aaai.org/index.php/AAAI/article/view/40330)
 
-## 📚 Table of Contents
+## 📑 Table of Contents
 
 - [1. Method Overview](#1-method-overview)
 - [2. Repository Structure](#2-repository-structure)
@@ -17,7 +17,7 @@ This repository contains the code implementation of the AAAI 2026 paper:
 
 ---
 
-## 1. Method Overview
+## 🧠 1. Method Overview
 
 EASiST has three core components:
 
@@ -39,7 +39,7 @@ EASiST has three core components:
 
 ---
 
-## 2. Repository Structure
+## 🗂️ 2. Repository Structure
 
 - `easist/`
   - `train_easist_st.py`: Stage II/III training entry.
@@ -63,7 +63,7 @@ EASiST has three core components:
 
 ---
 
-## 3. Environment Setup
+## ⚙️ 3. Environment Setup
 
 ### 3.1 Python dependencies
 
@@ -80,7 +80,7 @@ pip install -r requirements.txt
 
 ---
 
-## 4. Data Preparation
+## 📦 4. Data Preparation
 
 ### 4.1 MuST-C preprocessing (offline ST)
 
@@ -122,7 +122,7 @@ Additional fields include:
 
 ---
 
-## 5. Training Pipeline (Recommended Order)
+## 🚀 5. Training Pipeline
 
 ```bash
 git clone https://github.com/biaofuxmu/EASiST
@@ -179,7 +179,7 @@ Update:
 
 ---
 
-## 6. Inference and Evaluation
+## 📊 6. Inference and Evaluation
 
 ### 6.1 Offline ST evaluation
 
@@ -203,7 +203,7 @@ The script sweeps `latency_prob` from `0.1` to `0.6`. Each point generates a res
 
 ---
 
-## Citation
+## 📖 Citation
 
 If this project is useful for your research, please cite:
 
