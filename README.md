@@ -1,10 +1,6 @@
 # EASiST: Efficient and Adaptive Simultaneous Speech Translation
 
 [![Paper](https://img.shields.io/badge/Paper-AAAI%202026-blue)](./EASiST_AAAI26_Final.pdf)
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.3.0-EE4C2C?logo=pytorch&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey?logo=linux&logoColor=black)
-[![Chinese README](https://img.shields.io/badge/README-中文版本-green)](./README.zh.md)
 
 This repository contains the code implementation of the AAAI 2026 paper:  
 **Efficient and Adaptive Simultaneous Speech Translation with Fully Unidirectional Architecture**.
