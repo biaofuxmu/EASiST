@@ -7,16 +7,17 @@ Paper link: [AAAI Proceedings](https://ojs.aaai.org/index.php/AAAI/article/view/
 
 ## 📑 Table of Contents
 
-- [1. Method Overview](#1-method-overview)
-- [2. Repository Structure](#2-repository-structure)
-- [3. Environment Setup](#3-environment-setup)
-- [4. Data Preparation](#4-data-preparation)
-- [5. Training Pipeline (Recommended Order)](#5-training-pipeline-recommended-order)
-- [6. Inference and Evaluation](#6-inference-and-evaluation)
+- [1. Method Overview](#method-overview)
+- [2. Repository Structure](#repository-structure)
+- [3. Environment Setup](#environment-setup)
+- [4. Data Preparation](#data-preparation)
+- [5. Training Pipeline](#training-pipeline)
+- [6. Inference and Evaluation](#inference-and-evaluation)
 - [Citation](#citation)
 
 ---
 
+<a id="method-overview"></a>
 ## 🧠 1. Method Overview
 
 EASiST has three core components:
@@ -39,6 +40,7 @@ EASiST has three core components:
 
 ---
 
+<a id="repository-structure"></a>
 ## 🗂️ 2. Repository Structure
 
 - `easist/`
@@ -63,6 +65,7 @@ EASiST has three core components:
 
 ---
 
+<a id="environment-setup"></a>
 ## ⚙️ 3. Environment Setup
 
 ### 3.1 Python dependencies
@@ -80,6 +83,7 @@ pip install -r requirements.txt
 
 ---
 
+<a id="data-preparation"></a>
 ## 📦 4. Data Preparation
 
 ### 4.1 MuST-C preprocessing (offline ST)
@@ -122,6 +126,7 @@ Additional fields include:
 
 ---
 
+<a id="training-pipeline"></a>
 ## 🚀 5. Training Pipeline
 
 ```bash
@@ -187,6 +192,7 @@ Update:
 
 ---
 
+<a id="inference-and-evaluation"></a>
 ## 📊 6. Inference and Evaluation
 
 ### 6.1 Offline ST evaluation
@@ -211,6 +217,7 @@ The script sweeps `latency_prob` from `0.1` to `0.6`. Each point generates a res
 
 ---
 
+<a id="citation"></a>
 ## 📖 Citation
 
 If this project is useful for your research, please cite:
