@@ -177,6 +177,14 @@ Update:
 - `speech_llm_model` (typically Stage II output)
 - `save_path`
 
+### 5.4 Released checkpoints
+
+| HuggingFace | ModelScope |
+| ---- | ---- |
+| [EASiST-Stage-1 🤗](https://huggingface.co/biaofu-xmu/EASiST-Stage-1) | [EASiST-Stage-1 🤖](https://www.modelscope.cn/models/BiaoFuXMU/EASiST-Stage-1) |
+| [EASiST-Stage-2 🤗](https://huggingface.co/biaofu-xmu/EASiST-Stage-2) | [EASiST-Stage-2 🤖](https://www.modelscope.cn/models/BiaoFuXMU/EASiST-Stage-2) |
+| [EASiST-Stage-3 🤗](https://huggingface.co/biaofu-xmu/EASiST-Stage-3) | [EASiST-Stage-3 🤖](https://www.modelscope.cn/models/BiaoFuXMU/EASiST-Stage-3) |
+
 ---
 
 ## 📊 6. Inference and Evaluation
